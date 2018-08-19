@@ -1,0 +1,17 @@
+{
+  "name": "Web_get",
+  "description": "Simple Process Project",
+  "main": "Main.xaml",
+  "dependencies": {
+    "UiPath.Core.Activities": "18.2.6745.15248",
+    "UiPath.Excel.Activities": "2.3.6682.26635"
+  },
+  "excludedData": [
+    "Private:*",
+    "*password*"
+  ],
+  "toolVersion": "18.2",
+  "projectVersion": "1.0.6805.27879",
+  "packOptions": {},
+  "runtimeOptions": {}
+}
